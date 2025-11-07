@@ -20,7 +20,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      background: url("/images/baner.jpg") no-repeat center/cover;
+      background: url("./images/baner.jpg") no-repeat center/cover;
       position: relative;
     }
 
